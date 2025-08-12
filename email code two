@@ -1,0 +1,130 @@
+<div style="margin:0;padding:60px 0;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;color:#333;">
+    <div style="max-width:600px;margin:0 auto;background:#ffffff;border:1px solid #e0e0e0;border-radius:16px;overflow:hidden;box-shadow:0 8px 16px rgba(0,0,0,0.1);">
+
+        <style type="text/css">
+            @media only screen and (max-width:480px) {
+
+                .header-table,
+                .header-inner {
+                    width: 100% !important;
+                    max-width: 100% !important;
+                }
+
+                .logo-cell,
+                .divider-cell,
+                .offer-cell,
+                .photo-cell {
+                    display: block !important;
+                    width: 100% !important;
+                    text-align: center !important;
+                    padding: 10px 0 !important;
+                }
+
+                .divider-cell div {
+                    width: 100% !important;
+                    height: 1px !important;
+                    margin: 8px auto !important;
+                }
+
+                .logo-cell img,
+                .photo-cell img {
+                    width: 80px !important;
+                    height: auto !important;
+                }
+
+                .offer-cell p {
+                    margin: 6px 0 !important;
+                    font-size: 16px !important;
+                }
+            }
+        </style>
+
+        <!-- Header with Logo, Text, and Photo -->
+        <div style="background:#650934;color:#ffffff;padding:20px;">
+            <table class="header-table" width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:600px;margin:0 auto;font-family:Arial, sans-serif;">
+                <tr>
+                    <!-- Logo Column -->
+                    <td class="logo-cell" width="120" style="vertical-align:middle;text-align:center;padding-right:10px;">
+                        <img src="https://drive.google.com/thumbnail?id=1dZAq_r_aEKYjrtrcoJD1PrSjAwHdx5fI&sz=w1200" alt="GYMO Logo" width="100" style="display:block;border:0;outline:none;max-width:100%;height:auto;" />
+                    </td>
+
+                    <!-- Divider Column -->
+                    <td class="divider-cell" width="2" style="vertical-align:middle;padding:0;">
+                        <div style="width:2px;height:60px;background:#D9D9D9;margin:0 auto;"></div>
+                    </td>
+
+                    <!-- Offer Column -->
+                    <td class="offer-cell" valign="middle" style="padding:16px;text-align:center;color:#ffffff;">
+                        <p style="margin:0;font-size:18px;line-height:1.2;">
+                            You're Invited to morning coffee  at <strong style="color:#D9D9D9;">Press Coffee</strong>                      </p>
+                        <p style="margin:8px 0 0 0;font-size:14px;font-weight:600;
+                  padding:4px 10px;background-color:#D9D9D9;color:#650934;
+                  display:inline-block;border-radius:4px;">
+                            Hosted by Derek Greene
+                        </p>
+                    </td>
+
+                    <!-- Divider Column -->
+                    <td class="divider-cell" width="2" style="vertical-align:middle;padding:0;">
+                        <div style="width:2px;height:60px;background:#D9D9D9;margin:0 auto;"></div>
+                    </td>
+
+                    <!-- Photo Column -->
+                    <td class="photo-cell" width="100" style="vertical-align:middle;padding-left:20px;">
+                        <div style="width:70px;height:70px;border-radius:50%;overflow:hidden;margin:0 auto;">
+                            <img src="https://drive.google.com/thumbnail?id=1udAuTaCPDfoCZEWUfDVcCFZhk1nPUTvw&sz=w1200" alt="ADA PHAM" width="70" height="70" style="display:block;width:100%;height:100%;object-fit:cover;object-position:center;" />
+                        </div>
+                    </td>
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+     <!-- Main Content 2 -->
+        <div style="padding:30px 35px;line-height:1.6;font-size:16px;color:#4a4a4a;">
+
+
+            <p style="margin:0 0 20px;">Hi Heather,</p>
+            <p style="margin:0 0 20px;">I'd love for you to join me for an afternoon at The Capital Grille—great conversation, exceptional food, and a chance to connect outside the hustle of the workday.</p>
+            
+               <!-- Responsive Coupon Section: always centered -->
+        <table width="100%" cellpadding="0" cellspacing="0" border="0">
+            <tr>
+                <td align="center" style="padding:20px;">
+                    <!-- Inner table provides border & rounding -->
+                    <table cellpadding="0" cellspacing="0" border="0" style="border:1px solid #dddddd; border-radius:8px; overflow:hidden; max-width:360px; width:100%; background:#ffffff;">
+                        <tr>
+                            <td style="padding:10px; text-align:center;">
+                                <a href="https://drive.google.com/thumbnail?id=1i7HTPsbwV9zp4vxB8jc1WDzoSJOEz8s_&sz=w1200" target="_blank" style="display:block; width:100%; text-decoration:none;">
+                                    <img src="https://drive.google.com/thumbnail?id=1i7HTPsbwV9zp4vxB8jc1WDzoSJOEz8s_&sz=w1200" alt="10% Off Your Move Coupon" width="360" style="display:block; width:100%; height:auto; border-radius:4px; border:0; outline:none;" />
+                                </a>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+            
+            
+            <p style="margin:0 0 20px;">This lunch is my treat, and I'd like to use the time to learn more about your work, share how Get Your Move On has been partnering with top realtors for over 20 years, and explore how we might be a valuable resource for you and your clients.</p>
+                    <p style="margin:0 0 20px;">Let me know a date that works for you, and I'll take care of the reservation.</p>
+                    <p style="margin:0 0 20px;">Looking forward to sharing a table soon!</p>
+
+        </div> <!-- Signature -->
+        <div style="border-top:1px solid #e0e0e0;padding:20px 30px;text-align:center;font-size:14px;color:#555555;">
+            <p style="margin:5px 0;">Best regards,</p>
+            <p style="margin:5px 0;"><strong style="color:#650934;">Derek M. Greene</strong><br />President | Get Your Move On, LLC</p>
+            <p style="margin:5px 0;">480.695.6621 (Office) | 602.820.3559 (Cell)</p>
+            <p style="margin:5px 0;">
+                <a href="mailto:Derek@GetYourMoveOnLLC.com" style="color:#650934;text-decoration:none;">Derek@GetYourMoveOnLLC.com</a> |
+                <a href="https://GetYourMoveOnLLC.com" target="_blank" style="color:#650934;text-decoration:none;">GetYourMoveOnLLC.com</a>
+            </p>
+        </div>
+
+        <!-- Footer -->
+        <div style="text-align:center;font-size:12px;color:#999999;padding:15px;background:#f2f2f2;">
+            &copy; 2025 Get Your Move On, LLC. All rights reserved.
+        </div>
+
+    </div>
+</div>
